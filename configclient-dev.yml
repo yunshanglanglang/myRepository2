@@ -1,5 +1,5 @@
 spring:
   redis:
-    port: 8888
+    port: 9999
 
 
